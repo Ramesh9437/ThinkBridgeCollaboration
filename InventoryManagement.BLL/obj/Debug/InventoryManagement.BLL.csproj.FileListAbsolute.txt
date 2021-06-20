@@ -11,3 +11,16 @@ C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\
 C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.csproj.CoreCompileInputs.cache
 C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.dll
 C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.pdb
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\bin\Debug\InventoryManagement.BLL.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\bin\Debug\InventoryManagement.BLL.pdb
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\bin\Debug\InventoryManagement.BO.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\bin\Debug\InventoryManagement.DAL.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\bin\Debug\EntityFramework.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\bin\Debug\InventoryManagement.BO.pdb
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\bin\Debug\InventoryManagement.DAL.pdb
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\bin\Debug\InventoryManagement.DAL.dll.config
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\bin\Debug\EntityFramework.xml
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.csprojResolveAssemblyReference.cache
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.csproj.CoreCompileInputs.cache
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.pdb

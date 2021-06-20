@@ -154,7 +154,7 @@ namespace InventoryManagement.Tests
                 Configuration = new HttpConfiguration()
             };
             var result = inventorySystem.GetAllItems().Result;
-            Assert.AreEqual(result.IsSuccessStatusCode, false);
+            Assert.AreEqual(result.IsSuccessStatusCode, false);  
         }
 
         [TestMethod]
