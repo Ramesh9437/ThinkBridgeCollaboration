@@ -1,0 +1,13 @@
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\bin\Debug\InventoryManagement.BLL.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\bin\Debug\InventoryManagement.BLL.pdb
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\bin\Debug\InventoryManagement.BO.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\bin\Debug\InventoryManagement.DAL.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\bin\Debug\EntityFramework.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\bin\Debug\InventoryManagement.BO.pdb
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\bin\Debug\InventoryManagement.DAL.pdb
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\bin\Debug\InventoryManagement.DAL.dll.config
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\bin\Debug\EntityFramework.xml
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.csprojResolveAssemblyReference.cache
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BLL\obj\Debug\InventoryManagement.BLL.pdb

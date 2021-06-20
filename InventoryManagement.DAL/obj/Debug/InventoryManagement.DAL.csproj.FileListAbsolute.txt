@@ -1,0 +1,10 @@
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\bin\Debug\InventoryManagement.DAL.dll.config
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\bin\Debug\InventoryManagement.DAL.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\bin\Debug\InventoryManagement.DAL.pdb
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\bin\Debug\EntityFramework.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\bin\Debug\EntityFramework.xml
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\obj\Debug\InventoryManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\obj\Debug\InventoryManagement.DAL.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\obj\Debug\InventoryManagement.DAL.pdb

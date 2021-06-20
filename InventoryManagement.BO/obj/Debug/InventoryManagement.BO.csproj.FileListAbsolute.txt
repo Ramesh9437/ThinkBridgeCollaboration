@@ -1,0 +1,6 @@
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BO\bin\Debug\InventoryManagement.BO.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BO\bin\Debug\InventoryManagement.BO.pdb
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.csprojResolveAssemblyReference.cache
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.csproj.CoreCompileInputs.cache
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.dll
+C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.pdb
