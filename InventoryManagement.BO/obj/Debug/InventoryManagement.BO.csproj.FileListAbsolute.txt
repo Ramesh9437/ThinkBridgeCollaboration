@@ -4,3 +4,9 @@ C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BO\o
 C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.csproj.CoreCompileInputs.cache
 C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.dll
 C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.pdb
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BO\bin\Debug\InventoryManagement.BO.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BO\bin\Debug\InventoryManagement.BO.pdb
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.csprojResolveAssemblyReference.cache
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.csproj.CoreCompileInputs.cache
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.BO\obj\Debug\InventoryManagement.BO.pdb

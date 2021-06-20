@@ -8,3 +8,14 @@ C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\
 C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\obj\Debug\InventoryManagement.DAL.csproj.CoreCompileInputs.cache
 C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\obj\Debug\InventoryManagement.DAL.dll
 C:\Users\RAMESH SANTHA\source\repos\InventoryManagement\InventoryManagement.DAL\obj\Debug\InventoryManagement.DAL.pdb
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\bin\Debug\InventoryManagement.DAL.dll.config
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\bin\Debug\InventoryManagement.DAL.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\bin\Debug\InventoryManagement.DAL.pdb
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\bin\Debug\EntityFramework.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\bin\Debug\EntityFramework.xml
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\obj\Debug\InventoryManagement.DAL.csprojResolveAssemblyReference.cache
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\obj\Debug\InventoryManagement.DAL.csproj.CoreCompileInputs.cache
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\obj\Debug\InventoryManagement.DAL.dll
+C:\InventoryManagement\ThinkBridgeCollaboration\InventoryManagement.DAL\obj\Debug\InventoryManagement.DAL.pdb
